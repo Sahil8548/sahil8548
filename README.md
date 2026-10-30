@@ -90,29 +90,115 @@ Continuously strengthening my engineering skills, building impactful products, c
 
 ---
 
+
 ## ◈ 03 — FEATURED PROJECTS
 
 <div align="center">
 
-<a href="https://github.com/Sahil8548/AIML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil8548&repo=AIML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Sahil8548/Live-weather">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil8548&repo=Live-weather&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
+### 🌱 Farmer AI
 
-<a href="https://github.com/Sahil8548/pcminternationalschool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil8548&repo=pcminternationalschool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
+An intelligent agriculture platform focused on helping farmers make better decisions using technology.
 
-<br/><br/>
+**Focus Areas**
+- AI-based crop recommendations
+- Soil and weather analysis
+- Smart farming solutions
+
+**Tech:** Python · Machine Learning · AI
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AIML
+
+A collection of Artificial Intelligence and Machine Learning learning projects and experiments.
+
+**Focus Areas**
+- Python programming
+- AI and ML concepts
+- Practical implementations
+
+**Tech:** Python · AI · ML
+
+<br/>
+
+<a href="https://github.com/Sahil8548/AIML">Explore Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Tender AI
+
+An AI-powered platform concept for tender analysis and bidding assistance.
+
+**Focus Areas**
+- Tender document analysis
+- Intelligent assistance
+- Workflow automation
+
+**Tech:** Next.js · Supabase · AI
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 PCM International School
+
+A school website project designed to deliver a modern digital experience.
+
+**Focus Areas**
+- Responsive website
+- Modern user interface
+- School information platform
+
+**Tech:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Sahil8548/pcminternationalschool">Explore Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Live Weather
+
+A weather application concept for displaying weather information.
+
+**Focus Areas**
+- Weather information
+- API integration
+- Interactive interface
+
+**Tech:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Sahil8548/Live-weather">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 More Experiments
+
+Explore my other coding projects, experiments and development work.
 
 <a href="https://github.com/Sahil8548?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00CFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
 
 ---
 
