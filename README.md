@@ -263,20 +263,20 @@ Explore my other coding projects, experiments and development work.
 
 <br/>
 
-<img src="./sahil-robot-social-animation.gif" width="100%" alt="Robot connecting social media"/>
+<img src="./sahil-robot-social-animation.gif" width="100%" alt="Animated social media robot"/>
 
 <br/><br/>
 
 <a href="https://github.com/Sahil8548">
-<img src="https://img.shields.io/badge/GITHUB-Sahil8548-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sahil-raza-8ab3b0324/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/sahil___rza/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
