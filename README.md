@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/sahil-github-banner.png" width="100%" alt="Sahil Raza - AI Engineer"/>
+<img src="./sahil-github-banner.png" width="100%" alt="Sahil Raza - AI Engineer"/>
 
 <br/>
 
