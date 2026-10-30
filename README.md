@@ -251,21 +251,34 @@ Explore my other coding projects, experiments and development work.
 
 ---
 
+
 ## ◈ 07 — LET'S CONNECT
 
 <div align="center">
 
+### Let's Connect & Build Something Amazing! 🚀
+
+*Always open to connecting with developers, innovators and technology enthusiasts.*
+
+<br/>
+
 <a href="https://github.com/Sahil8548">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-Sahil8548-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Sahil8548?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<a href="https://www.linkedin.com/in/sahil-raza-8ab3b0324/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sahil___rza/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 **Thanks for visiting my profile!**
+
+*Think. Build. Innovate. Repeat.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0066CC,100:00D9FF&height=120&section=footer" width="100%"/>
 
